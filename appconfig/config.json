@@ -1,0 +1,13 @@
+{
+    "welcome":"hello pinaryplayer !!",
+    "serviceport":8765,
+    "mongohosts":["127.0.0.1:27010"],
+    "mongoconfig":{
+        "minpoolsize":100,
+        "poollimit":500,
+        "username":"admin",
+        "password":"ilu16029",
+        "dbname":"twoption",
+        "admindbname":"admin"
+    }
+}
